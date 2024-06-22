@@ -1,10 +1,3 @@
-# Dungeon_Infinita
-Um pequeno mini joguinho de uma masmorra infinita
-
-Claro! Aqui está uma documentação divertida e fácil de entender para o código:
-
----
-
 # Masmorra Infinita - Um Jogo de Aventura
 
 Bem-vindo à **Masmorra Infinita**! Este é um emocionante jogo de texto onde você, o destemido herói, explora uma masmorra cheia de perigos. Você encontrará monstros assustadores e usará suas habilidades para derrotá-los. Mas cuidado, a masmorra é traiçoeira e não há escapatória! Vamos explorar o código para entender como jogar e como ele funciona.
